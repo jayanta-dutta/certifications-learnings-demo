@@ -1,1 +1,1 @@
-# my-certifications-learnings
+# certifications-learnings-demo
